@@ -1,0 +1,17 @@
+{
+ "packageName":"Loud Audio - 4 AP 100 Amplifier (HTTP)",
+ "author":"VH",
+ "version":"1.0",
+ "minimumHEVersion":"2.4.1.151",
+ "dateReleased":"2025-04-11",
+ "releaseNotes":"First version pushed to HPM",
+ "documentationLink":"https://github.com/hhorigian/hubitat_loud_4ap100",
+ "drivers": [
+  {
+     "id":"1721672c-9e49-47f8-9833-13038a3c3a79",
+     "name":"Loud Audio 4 AP 100 Amplifier (HTTP)",
+     "location":"https://raw.githubusercontent.com/hhorigian/hubitat_loud_4ap100/refs/heads/main/Driver_TRATO_Loud_4AP100.groovy",
+     "required":true
+  }
+  ]
+}
